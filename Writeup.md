@@ -19,7 +19,7 @@ To know more the C|EH Practical Exam, visit the [link](https://www.eccouncil.org
 ## My Journey :nerd_face:
 
 I have studying about cybersecurity for the past 3 years. I have heard about this certification quite a few times during these years. Later I cam to know of a scholarship program that is being offer by the EC-Council in the end of 2021.<br />
-Apperently EC-Council has announced 1M USD for C|EH Practical certification for the enhancment of the hacking skills in the cybersecurity community.  The actual cost of this certification is 550USD, but if the candidate gets selected by this program, they would get the same certification for just 99USD (which is a very generous offer). The scholarship application has a few pre-requisites and the candidate is asked to write a breif answer for why the deserve the scholarship. That is pretty much the scholarship application. To know more about the scholarship visit the [link](https://www.eccouncil.org/ec-council-announces-1m-ceh-practical-scholarship-2021-to-boost-ethical-hacking-skill/).<br />
+Apperently EC-Council has announced 1M USD for C|EH Practical certification for the enhancment of the hacking skills in the cybersecurity community.  The actual cost of this certification is 550USD, but if the candidate gets selected by this program, they would get the same certification for just 99USD (which is a very generous offer). The scholarship application has a few pre-requisites and the candidate is asked to write a breif answer for why the deserve the scholarship. That is pretty much the scholarship application. <br />To know more about the scholarship visit the [link](https://www.eccouncil.org/ec-council-announces-1m-ceh-practical-scholarship-2021-to-boost-ethical-hacking-skill/).<br /> [Application Link](https://www.eccouncil.org/campaigns/ceh/ceh-practical-scholarship-2021/#Apply_now)<br />
 
 Fortunately, I got selected by the scholarship program in Nov 2021. After the payment of the scholarship amount, they sent a coupoun code to access the certification exam along with the list of instruction to follow. At the end of the procedure, I was able to schedule the exam as per the slot system availabe in the aspen portal, which is where the exam would take place.<br />
 
@@ -40,5 +40,43 @@ The 20 question was pretty much in the range from easy to moderate. I juggled be
 I complete 19 of them in 4 hours and the remaining one was tricky. By the time I figured it was too late to solve it:dizzy_face:. After clicked the `Submit` button and informing the proctor that I finished my exam, she instructed my how to check my exam status.<br />
 
 **BOOYAH!**:tada::confetti_ball:<br />
-I cleared my exam, got them all correct. The proctored congragulated me and left the meeting after giving me a few instruction on downloading the certificate, transcript and badge.
+I cleared the certification exam, got them all correct. The proctored congragulated me and left the meeting after giving me a few instruction on downloading the certificate, transcript and badge.<br />
+[Verify my badge](https://aspen.eccouncil.org/VerifyBadge?type=certification&a=A89SS0SuEu/oPIOQV44sO3WvvKP/T+URnkVMNXxdEH8=).
+
+## Resources & Tips
+Anyone appearing for the exam, I would suggest to have strong knowlodge in these areas<br />
+- **Demonstrate the understanding of attack vectors**
+- **Perform network scanning to identify live and vulnerable machines in a network.**
+- **Perform OS banner grabbing, service, and user enumeration.**
+- **Perform system hacking, steganography, steganalysis attacks, and cover tracks.**
+- **Identify and use viruses, computer worms, and malware to exploit systems.**
+- **Perform packet sniffing.**
+- **Conduct a variety of web server and web application attacks including directory traversal, parameter tampering, XSS, etc.**
+- **Perform SQL injection attacks.**
+- **Perform different types of cryptography attacks.**
+- **Perform vulnerability analysis to identify security loopholes in the target organization’s network, communication infrastructure, and end systems etc.**<br />
+
+Tools to be familiar with<br />
+- Nmap<br />
+- Hydra<br />
+- Sqlmap<br />
+- John / Hashcat<br />
+- Metasploit / Netcat<br />
+- Wireshark or Tcpdump<br />
+- OpenStego<br />
+- Snow<br />
+- Veracrypt<br />
+- HashCalc<br />
+- CrypTool<br />
+- Burpsuite<br />
+
+There is a great GitHub Repo which sums of most of the resources, that I have used to prepare - [GitHub](https://github.com/CyberSecurityUP/Guide-CEH-Practical-Master)
+
+Other than these the iLabs that are provided by the EC-Council have been recorded and released in youtube, see all of them to get familiarity with the virtual machines - [YouTube](https://www.youtube.com/watch?v=b2YrqpeklFw&list=PLrrgFyE6PtlaCixUxJPM0Y9Peye6iCewH&index=18)
+
+Before registration go through this [article](https://lightkun-yagami.medium.com/passed-ec-councils-certified-ethical-hacker-practical-20634b6f0f2) to know about the slot booking and exam starting process.
+
+## Conclusion
+Overall, this was a very delightful and fun experience to take up this certification exam. The process was enjoyable and will be to you too.<br />
+**Happy Hacking!**:computer::v:
 
