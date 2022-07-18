@@ -29,5 +29,16 @@ Well, I redemmed the coupoun right after I got it :upside_down_face:. I started 
 
 However, because of the cost of the barrier, I didn't purchase it. I studied according to the syllabus of the exam and used online freely available resources. I will share the reources that I used at the end of this article:wink:. I tried few CTF rooms in `TryHackMe`, `Hackthebox`, and `PicoCTF`. Plating around with `DVWA` also help me a lot to understand the foundations of a few concepts. I read a lot of review articles on this certification before taking it. From all this experince, I created a personalised notes that had the information of the all the compiled resources I had used for my preparation<br />
 
-A month went by and I gained enough confidence to show up for the exam. (Confidence on your skills is a neccassity to appear before any exam :sunglasses:). I planned on taking the exam on the first week of July but due to unavailabilty of the slot, I booked a slot on the 3rd week of it.
+A month went by and I gained enough confidence to show up for the exam. (Confidence on your skills is a neccassity to appear before any exam :sunglasses:). I planned on taking the exam on the first week of July but due to unavailabilty of the slot, I booked a slot on the 3rd week of it. For booking of the exam slot, I was diverted to another website in which the exam actually took place. I created an account and booked my slot there.
+Before the exam I had a good night sleep, was fresh, revieved my notes and all was well!<br />
+
+### The Judgement Day
+I had my exam slot in the morning 9:30 am. I went into the exam portal and connected with the proctor. Here came the first trouble. I logged in with my laptop in my Kali OS, apparently it doesn't support the application verison of `GoTo Meeting` in which the proctor invigilates our entire exam. I logged in with the Web browser version. The proctor asked me connect with desktop verison, since the browser version doesn't allow me share the screen and give remote control to them. This came by suprise :expressionless:. Good for me, I had dual booted my laptop with a windows version:face_exhaling:. The proctor was kind enough to give some extra time to join again. Then I logged into the exam portal from theat OS and the proctor start the exam after a few procedure.<br />
+
+The 20 question was pretty much in the range from easy to moderate. I juggled between the 2 virtual machines to answer the question. The worst part of the exam is the connectivity speed to the virtual machine, they were too slow (I can't stress enouch on that:sneezing_face:). Make sure you have a good bandwidht before starting the exam. Mine was a bit slow, because of which I had restart my virtual machine during the exam. All the tools were already present in the machines itself, and the question clearly mentioned which virtual machine to use for that specific question. You just have to use approprite tools and solve the challenge.<br />
+
+I complete 19 of them in 4 hours and the remaining one was tricky. By the time I figured it was too late to solve it:dizzy_face:. After clicked the `Submit` button and informing the proctor that I finished my exam, she instructed my how to check my exam status.<br />
+
+**BOOYAH!**:tada::confetti_ball:<br />
+I cleared my exam, got them all correct. The proctored congragulated me and left the meeting after giving me a few instruction on downloading the certificate, transcript and badge.
 
